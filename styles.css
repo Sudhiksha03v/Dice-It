@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #7d132a;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Papyrus', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #cacaa5;
+}
+
+p {
+  font-size: 2rem;
+  color: #bfc6a8;
+  font-family: 'Gabriola', cursive;
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 15%;
+  color: #a8ad9c;
+  text-align: center;
+  font-family: 'Gabriola', cursive;
+
+}
